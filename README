@@ -1,0 +1,132 @@
+Script started on 廿十八年六月六日 (週三) 一時〇分廿六秒
+]0;pd2vm@pd2-vbox: ~/lab7[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab7[00m$ MA[K[Kmake
+g++ -c tetris5.cpp
+g++ -o tetris5 tetris5.o genMino.o Mino.o MinoI.o MinoS.o MinoL.o MinoO.o MinoT.o
+]0;pd2vm@pd2-vbox: ~/lab7[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab7[00m$ make[2Plsgit clone https://pd2a.imslab.org/gitlab/F740663365/lab7[A]0;pd2vm@pd2-vbox: ~/lab7[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab7[00m$ vim res.qrc[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd Funny_Shooting_gamels[Kvim sword.cpp[2Phls[Kvim res.qrcls[Kcd Funny_Shooting_gamels[Kgit clone https://pd2a.imslab.org/gitlab/F740663365/2018-pd2-Project3[A]0;pd2vm@pd2-vbox: ~/lab7[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab7[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./HugeIntls[K./HugeIntls[Kgit clone https://pd2a.imslab.org/gitlab/F740663365/2018-pd2-Project3[A]0;pd2vm@pd2-vbox: ~/lab7[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab7[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd Funny_Shooting_gamels[Kvim res.qrcls[Kvim sword.hcppls[Kcd Funny_Shooting_gamels[Kvim res.qrcgit clone https://pd2a.imslab.org/gitlab/F740663365/lab7[A]0;pd2vm@pd2-vbox: ~/lab7[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab7[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmake[K./tetris5
+0010
+0010
+0010
+0010
+0010
+0010
+0010
+0010
+0000
+0100
+0100
+0110
+0000
+0100
+0110
+0100
+0000
+0100
+0110
+0100
+0000
+0000
+0110
+0110
+0000
+0000
+0011
+0110
+0000
+0100
+0100
+0110
+0010
+0010
+0010
+0010
+0000
+0000
+0011
+0110
+0000
+0000
+0110
+0110
+0000
+0000
+0110
+0110
+0000
+0000
+0110
+0110
+0000
+0000
+0011
+0110
+0000
+0000
+0110
+0110
+0000
+0100
+0100
+0110
+0010
+0010
+0010
+0010
+0000
+0100
+0100
+0110
+0000
+0000
+0011
+0110
+0000
+0100
+0100
+0110
+0010
+0010
+0010
+0010
+0000
+0100
+0100
+0110
+0000
+0000
+0110
+0110
+0000
+0100
+0100
+0110
+0000
+0100
+0100
+0110
+0000
+0000
+0110
+0110
+0000
+0000
+0110
+0110
+0000
+0000
+0110
+0110
+0000
+0000
+0110
+0110
+0000
+0100
+0100
+0110
+]0;pd2vm@pd2-vbox: ~/lab7[01;32mpd2vm@pd2-vbox[00m:[01;34m~/lab7[00m$ exit
+
+Script done on 廿十八年六月六日 (週三) 一時一分四秒
